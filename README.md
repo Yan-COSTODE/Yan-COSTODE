@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yan-COSTODE
-- 👀 I’m interested in Development speciaziled in Video Games, but also in Web or in general
-- 🌱 I’m currently learning Unity, Blender, Unreal Engine
+- 👀 I’m interested in Development speciaziled in Video Games. I maily use Unity
+- 🌱 I’m currently learning Unity, Unreal Engine
 - 📫 How to reach me yan.costode@gmail.com, you can also check my portfolio [here](https://yancostode.com/)
 
 <!---
